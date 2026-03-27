@@ -1,7 +1,10 @@
 <div align="center">
 <h1>Proton Calendar extra</h1>
- 
-![preview](./proton-calendar.png)
+
+<img width="400px" alt="image-1" src="https://github.com/user-attachments/assets/89db4e78-503e-4450-8626-1451466fb8ae" />
+<img width="400px"  alt="image-2" src="https://github.com/user-attachments/assets/b2f925b1-21f7-46b4-8291-c029992357b4" />
+
+ [video.webm](https://github.com/user-attachments/assets/38b60746-03dd-4a9a-9f88-71d338af4689)
 
 </div>
 
