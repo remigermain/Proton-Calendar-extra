@@ -30,9 +30,9 @@
 
     const date = new Date()
     date.setHours(0, 0, 0, 0)
-    date.setFullYear(paths[0] ? parseInt(paths[0], 10) : date.getFullYear())
-    date.setMonth(paths[1] ? parseInt(paths[1], 10) - 1 : date.getMonth())
-    date.setDate(paths[1] ? parseInt(paths[2], 10) : date.getDate())
+    date.setFullYear(parseInt(paths[0], 10) || date.getFullYear())
+    date.setMonth(parseInt(paths[1], 10) - 1 || date.getMonth())
+    date.setDate(parseInt(paths[2], 10) || date.getDate())
 
     return date
   }
